@@ -1,0 +1,4 @@
+[
+  { "id": 1, "fullName": "Иванов Иван", "department": "Кардиологическое", "isHead": true },
+  { "id": 2, "fullName": "Петров Петр", "department": "Хирургическое", "isHead": false }
+]
